@@ -1,4 +1,4 @@
-#understanding conditionals - if and nested if 
+#understanding conditionals - if and nested if by roller coster 
 
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
